@@ -1,0 +1,5 @@
+Credentials cache: API:6407CA5F-E026-4EE8-A408-FBC52B308654
+        Principal: rgo@42SEOUL.KR
+
+  Issued                Expires               Principal
+Aug 22 17:51:13 2022  Aug 23 03:51:09 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
